@@ -17,7 +17,7 @@ public class ShapeTest {
 	private final double DELTA = 0.0000000000001;
 	
 	@Test
-	public void testCompareTo()
+	public void testCompareTo() 
 	{
 		Circle a = new Circle(1);
 		Circle b = new Circle(1);
